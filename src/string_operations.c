@@ -1,6 +1,7 @@
 #include<string.h>
 #include<stdio.h>
 //aaakarshhh Jaaaainnnn
+//something i have to do privately
 char *my_concat(char *p1,char *p2)
 {
 	while(*p1!=0)
