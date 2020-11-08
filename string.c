@@ -10,7 +10,7 @@ char *my_strcpy(char *t,char *s)
 
 size_t my_strlen(char *s)
 {
-	char *p=s;
+	const char *p=s;
 	while(*p)
 		++p;
 	return(p-s);
