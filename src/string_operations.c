@@ -1,7 +1,7 @@
 #include<string.h>
 #include<stdio.h>
 //aaakarshhh Jaaaainnnn
-char *my_strcat(char *p1,char *p2)
+char *my_concat(char *p1,char *p2)
 {
 	while(*p1!=0)
 		p1++;
